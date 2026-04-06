@@ -2692,3 +2692,5 @@ Emany Chiruza
 - [Artemka](https://github.com/Artemka)
 - [Mikhail](https://github.com/2len)
 - [Surya](https://github.com/GSuryaP)
+- [Cauã Alves](https://github.com/cauaalvs-dev)
+- 
